@@ -1,4 +1,4 @@
-# Chat-Server
+# Chat Server
 
 ## What This Is:
 
